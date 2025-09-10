@@ -2,9 +2,10 @@
 
 Authors: Trung-Tin Luu, Thanh-Binh Nguyen, Minh-Man Ngo
 
-Paper: Missing Data Imputation using Neural Cellular Automata
+Pre-print: [Missing Data Imputation using Neural Cellular Automata](https://arxiv.org/abs/2509.00651)
 
-Contact: 
+This directory contains implementations of NICA framework for imputation on multiple datasets from [UCI](https://archive.ics.uci.edu/) and [Kaggle](https://www.kaggle.com/).
 
-This directory contains implementations of NICA framework for imputation
+Example command to run the pipeline for training and imputing: `python main_imputation.py`
+
 
