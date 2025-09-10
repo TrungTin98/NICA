@@ -9,3 +9,18 @@ This directory contains implementations of NICA framework for imputation on mult
 Example command to run the pipeline for training and imputing: `python main_imputation.py`
 
 
+
+Use `ls -la` to list files.
+
+```bash
+git clone https://github.com/user/repo.git
+cd repo
+make install
+
+```
+→  
+```bash
+git clone https://github.com/user/repo.git
+cd repo
+make install
+```
